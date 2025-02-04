@@ -1,0 +1,12 @@
+flask
+flask-cors
+python-dotenv
+langchain-groq
+langchain-community
+langchain
+langchain-huggingface
+sentence-transformers
+scikit-learn
+bert-score
+rapidfuzz
+requests
